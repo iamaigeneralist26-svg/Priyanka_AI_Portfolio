@@ -1,0 +1,6 @@
+[build]
+  functions = "netlify/functions"
+
+[dev]
+  command = "echo 'Use Netlify dev or deploy to Netlify for function support'"
+  port = 8888
